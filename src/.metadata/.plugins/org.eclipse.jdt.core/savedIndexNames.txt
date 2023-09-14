@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+/Users/kenshin/Desktop/puro2/2B/Probfinal/src/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+4008566294.index
+1768979292.index
